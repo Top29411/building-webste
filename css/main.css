@@ -273,6 +273,11 @@ body {
   border-radius: 8px;
   flex: 1;
   line-height: 27px;
+  border: 4px solid transparent;
+}
+
+#content .token-area .token-box:hover {
+  border-color: #FFFFFF;
 }
 
 #content .token-area .token-box:not(:last-child) {
