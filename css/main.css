@@ -290,6 +290,13 @@ body {
   margin-bottom: 23px;
 }
 
+#content h4 {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 22px;
+  line-height: 38px;
+  margin-bottom: 23px;
+}
+
 #content .token-area p:not(:last-child) {
   margin-bottom: 17px;
 }
@@ -340,6 +347,12 @@ body {
   padding: 24px 32px;
   margin-top: 32px;
 }
+
+#content .projects-area .projects-box img {
+  height: 60px;
+  align-self: center;
+}
+
 
 #content .projects-area .projects-textbox {
   display: flex;
