@@ -374,6 +374,12 @@ body {
   justify-content: space-between;
 }
 
+#content .projects-area .projects-textbox .inactive-tag {
+  color: red;
+  font-size: 12px;
+  font-style: italic;
+}
+
 #content .projects-area .projects-block:not(:last-child) {
   margin-right: 32px;
 }
